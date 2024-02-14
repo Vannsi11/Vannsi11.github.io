@@ -1,0 +1,31 @@
+* {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+html {
+    background-color: black;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.kon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 160px;
+    margin-top: 90px;
+  }
+
+.mf {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 90em;
+}
